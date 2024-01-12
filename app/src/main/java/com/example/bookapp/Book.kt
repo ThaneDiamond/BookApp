@@ -16,5 +16,5 @@ fun main() {
 }
 
 fun bookDetails(book: Book){
-    println("The title of the book is:${book.title} \n By:${book.author} \n Published on ${book.yearPublished} \n")
+    println("The title of the book is:${book.title} \nBy:${book.author} \nPublished on ${book.yearPublished} \n")
 }

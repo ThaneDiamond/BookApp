@@ -6,6 +6,5 @@ class Book(
     val yearPublished: Int = 2000
 ) {
     init {
-
     }
 }
